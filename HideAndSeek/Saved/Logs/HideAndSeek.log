@@ -1319,3 +1319,84 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.01-00.50.10:834][534]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTMyAiFDF8A93748309F253708A895BA302B5F.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset'
 [2020.11.01-00.50.10:853][534]AssetCheck: New page: Asset Save: BTMyAi
 [2020.11.01-00.50.10:853][534]LogContentValidation: Display: Validating BehaviorTree /Game/BTMyAi.BTMyAi
+[2020.11.01-00.52.55:288][413]LogEditorViewport: Clicking on Actor (LMB): BpMyAi_C (BpMyAi)
+[2020.11.01-00.55.55:826][413]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/BBMyAi.BBMyAi
+[2020.11.01-00.55.57:532][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BBMyAi" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BBMyAi.uasset" SILENT=true
+[2020.11.01-00.55.57:541][464]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BBMyAi11C618CA459965B621F4708511483AA5.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BBMyAi.uasset'
+[2020.11.01-00.55.57:566][464]AssetCheck: New page: Asset Save: BBMyAi
+[2020.11.01-00.55.57:566][464]LogContentValidation: Display: Validating BlackboardData /Game/BBMyAi.BBMyAi
+[2020.11.01-00.57.47:776][637]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/BBMyAi.BBMyAi. BB Key Selector will be set to 'Invalid'
+[2020.11.01-00.58.19:646][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.11.01-00.58.19:659][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2020.11.01-00.58.19:659][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BTMyAi] ([1] browsable assets)...
+[2020.11.01-00.58.19:659][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/BTMyAi]
+[2020.11.01-00.58.19:675][299]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTMyAi_Auto32C85838B4F088B9F83E68FA4E31E673C.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/Autosaves/Game/BTMyAi_Auto3.uasset'
+[2020.11.01-00.58.19:677][299]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.11.01-00.58.29:879][636]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.01-00.58.57:190][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BBMyAi" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BBMyAi.uasset" SILENT=true
+[2020.11.01-00.58.57:208][159]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BBMyAiF958A1904597126E37B2768640B12078.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BBMyAi.uasset'
+[2020.11.01-00.58.57:226][159]AssetCheck: New page: Asset Save: BBMyAi
+[2020.11.01-00.58.57:226][159]LogContentValidation: Display: Validating BlackboardData /Game/BBMyAi.BBMyAi
+[2020.11.01-01.00.52:567][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BTService_BlueprintBase_New.BTService_BlueprintBase_New
+[2020.11.01-01.00.52:944][710]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/BTService_BlueprintBase_New.
+[2020.11.01-01.03.20:023][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.11.01-01.03.20:039][566]LogMetaData: Removing '/Game/BTService_SetRandomLocation.SKEL_BTService_SetRandomLocation_C' ref from Metadata '/Game/BTService_BlueprintBase_New.PackageMetaData'
+[2020.11.01-01.03.20:039][566]LogMetaData: Removing '/Game/BTService_SetRandomLocation.BTService_SetRandomLocation_C' ref from Metadata '/Game/BTService_BlueprintBase_New.PackageMetaData'
+[2020.11.01-01.03.20:089][566]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTService_SetRandomLocationF66E947D45399421CC890A94662B0E23.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTService_SetRandomLocation.uasset'
+[2020.11.01-01.03.20:282][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.11.01-01.03.20:314][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.11.01-01.03.20:334][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.11.01-01.03.20:384][566]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/BTService_SetRandomLocation.
+[2020.11.01-01.03.20:392][566]AssetCheck: New page: Asset Save: BTService_SetRandomLocation
+[2020.11.01-01.03.20:392][566]LogContentValidation: Display: Validating Blueprint /Game/BTService_SetRandomLocation.BTService_SetRandomLocation
+[2020.11.01-01.03.51:471][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.11.01-01.03.51:513][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BTMyAi" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset" SILENT=true
+[2020.11.01-01.03.51:530][997]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTMyAi492AA6E7412F934CF0AE4BB071D9FE56.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset'
+[2020.11.01-01.03.51:545][997]AssetCheck: New page: Asset Save: BTMyAi
+[2020.11.01-01.03.51:545][997]LogContentValidation: Display: Validating BehaviorTree /Game/BTMyAi.BTMyAi
+[2020.11.01-01.05.03:995][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BTMyAi" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset" SILENT=true
+[2020.11.01-01.05.04:011][603]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTMyAi2C35A8B447360FE9F6A4FAB69B4FF022.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset'
+[2020.11.01-01.05.04:031][603]AssetCheck: New page: Asset Save: BTMyAi
+[2020.11.01-01.05.04:031][603]LogContentValidation: Display: Validating BehaviorTree /Game/BTMyAi.BTMyAi
+[2020.11.01-01.05.41:412][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BTMyAi" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset" SILENT=true
+[2020.11.01-01.05.41:429][465]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTMyAiEE5B7EEA4516BD164AF93E9CC47FD97C.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset'
+[2020.11.01-01.05.41:447][465]AssetCheck: New page: Asset Save: BTMyAi
+[2020.11.01-01.05.41:447][465]LogContentValidation: Display: Validating BehaviorTree /Game/BTMyAi.BTMyAi
+[2020.11.01-01.09.12:509][523]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.11.01-01.09.52:076][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.11.01-01.09.52:079][208]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2020.11.01-01.09.52:079][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BTService_SetRandomLocation] ([1] browsable assets)...
+[2020.11.01-01.09.52:079][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/BTService_SetRandomLocation]
+[2020.11.01-01.09.52:098][208]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTService_SetRandomLocation_AutoC70BF62E4C6E98CE72AFC3B1F2823DAD.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/Autosaves/Game/BTService_SetRandomLocation_Auto4.uasset'
+[2020.11.01-01.09.52:099][208]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.11.01-01.10.14:934][424]BlueprintLog: New page: Compile BTService_SetRandomLocation
+[2020.11.01-01.10.14:969][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.11.01-01.10.15:939][491]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTService_SetRandomLocation40424F57460D6C543773A094936087F3.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTService_SetRandomLocation.uasset'
+[2020.11.01-01.10.15:960][491]AssetCheck: New page: Asset Save: BTService_SetRandomLocation
+[2020.11.01-01.10.15:960][491]LogContentValidation: Display: Validating Blueprint /Game/BTService_SetRandomLocation.BTService_SetRandomLocation
+[2020.11.01-01.11.27:508][281]BlueprintLog: New page: Compile BTService_SetRandomLocation
+[2020.11.01-01.11.27:543][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.11.01-01.11.28:588][358]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTService_SetRandomLocationA682A417405C52D624998BB0FA09B1A1.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTService_SetRandomLocation.uasset'
+[2020.11.01-01.11.28:605][358]AssetCheck: New page: Asset Save: BTService_SetRandomLocation
+[2020.11.01-01.11.28:605][358]LogContentValidation: Display: Validating Blueprint /Game/BTService_SetRandomLocation.BTService_SetRandomLocation
+[2020.11.01-01.12.32:953][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BTMyAi" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset" SILENT=true
+[2020.11.01-01.12.32:973][525]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTMyAi742F3A1846D0DC227859C58B50A35B39.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset'
+[2020.11.01-01.12.32:993][525]AssetCheck: New page: Asset Save: BTMyAi
+[2020.11.01-01.12.32:993][525]LogContentValidation: Display: Validating BehaviorTree /Game/BTMyAi.BTMyAi
+[2020.11.01-01.14.16:098][308]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpMyAi.BpMyAi
+[2020.11.01-01.14.45:146][727]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpMyAiContollor.BpMyAiContollor
+[2020.11.01-01.15.16:597][670]BlueprintLog: New page: Compile BpMyAiContollor
+[2020.11.01-01.15.16:642][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.01-01.15.17:912][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BpMyAiContollor" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BpMyAiContollor.uasset" SILENT=true
+[2020.11.01-01.15.17:937][766]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BpMyAiContollor794290564E37F538887A42991CB6DFC7.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BpMyAiContollor.uasset'
+[2020.11.01-01.15.17:955][766]AssetCheck: New page: Asset Save: BpMyAiContollor
+[2020.11.01-01.15.17:955][766]LogContentValidation: Display: Validating Blueprint /Game/BpMyAiContollor.BpMyAiContollor
+[2020.11.01-01.16.28:211][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BTMyAi" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset" SILENT=true
+[2020.11.01-01.16.28:228][ 35]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BTMyAiD243ED484EC61B2624BB04A1AF4AD32A.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BTMyAi.uasset'
+[2020.11.01-01.16.28:254][ 35]AssetCheck: New page: Asset Save: BTMyAi
+[2020.11.01-01.16.28:254][ 35]LogContentValidation: Display: Validating BehaviorTree /Game/BTMyAi.BTMyAi
+[2020.11.01-01.17.13:681][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.01-01.17.13:710][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BpMyAiContollor" FILE="../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BpMyAiContollor.uasset" SILENT=true
+[2020.11.01-01.17.13:729][531]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Saved/BpMyAiContollorF89426D040DF26D006C2068C83F2CC15.tmp' to '../../../../../../Users/Brayden/Documents/unreal/HideAndSeek/HideAndSeek/HideAndSeek/Content/BpMyAiContollor.uasset'
+[2020.11.01-01.17.13:745][531]AssetCheck: New page: Asset Save: BpMyAiContollor
+[2020.11.01-01.17.13:745][531]LogContentValidation: Display: Validating Blueprint /Game/BpMyAiContollor.BpMyAiContollor
